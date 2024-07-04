@@ -1,0 +1,24 @@
+.singlerec-title {
+    margin-bottom: 20px;
+    padding: 1rem;
+  }
+  
+  .singlerec-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .singlerec-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .singlerec-info p {
+    margin: 5px 0;
+  }
+  
+  .singlerec-ingr {
+    margin-top: 20px;
+  }
